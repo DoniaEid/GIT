@@ -48,3 +48,8 @@ Each topic is covered with hands-on examples and clean code to help reinforce th
    ```bash
    git clone https://github.com/DoniaEid/DataStructure.git
    cd DataStructure
+---
+👩‍💻 Author  
+**Donia Eid**  
+Computer Science Student – Faculty of Computers  
+[GitHub](https://github.com/DoniaEid)
