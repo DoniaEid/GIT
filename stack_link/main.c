@@ -33,7 +33,7 @@ int main()
     {
         printf("\nstack is empty\n");
     }
-    printf("donia eid");
+    printf("donia");
 
     return 0;
 }
