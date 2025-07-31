@@ -12,8 +12,7 @@ int main()
     insert(&l,3,6);
     insert(&l,1,89);
     retreive(&l,5);
-
-    printf("list is: ");
+    printf("list is: ");//10 89 20 30 6
     display(&l);
 
     return 0;
