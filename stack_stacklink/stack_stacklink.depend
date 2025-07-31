@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1753874312 source:c:\users\dell\onedrive\desktop\ds\binarysearch_tree\stack_stacklink\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.c"
+
+1753875031 c:\users\dell\onedrive\desktop\ds\binarysearch_tree\stack_stacklink\stack.c
+	"stack.h"
+
+1753875016 c:\users\dell\onedrive\desktop\ds\binarysearch_tree\stack_stacklink\stack.h
+

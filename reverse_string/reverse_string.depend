@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1753533923 source:c:\users\dell\onedrive\desktop\ds\reverse_string\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"stack.c"
+
+1753532836 c:\users\dell\onedrive\desktop\ds\reverse_string\stack.c
+	"stack.h"
+
+1753532869 c:\users\dell\onedrive\desktop\ds\reverse_string\stack.h
+

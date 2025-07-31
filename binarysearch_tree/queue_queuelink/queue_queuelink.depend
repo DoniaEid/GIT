@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1753957274 source:c:\users\dell\onedrive\desktop\ds\binarysearch_tree\queue_queuelink\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.c"
+
+1753957732 c:\users\dell\onedrive\desktop\ds\binarysearch_tree\queue_queuelink\queue.c
+	"queue.h"
+	<stdio.h>
+	<stdlib.h>
+
+1753957274 c:\users\dell\onedrive\desktop\ds\binarysearch_tree\queue_queuelink\queue.h
+
+1753958349 source:c:\users\dell\onedrive\desktop\ds\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.c"
+
+1753958349 c:\users\dell\onedrive\desktop\ds\queue\queue.c
+	"queue.h"
+	"stdlib.h"
+
+1753958344 c:\users\dell\onedrive\desktop\ds\queue\queue.h
+
+1753958349 source:c:\users\dell\onedrive\desktop\ds\queue\queue.c
+	"queue.h"
+	"stdlib.h"
+

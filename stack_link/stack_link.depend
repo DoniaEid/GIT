@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1753355904 source:c:\users\dell\onedrive\desktop\stack_link\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.c"
+
+1753355941 c:\users\dell\onedrive\desktop\stack_link\stack.c
+	"stack.h"
+	"stdlib.h"
+
+1753355844 c:\users\dell\onedrive\desktop\stack_link\stack.h
+

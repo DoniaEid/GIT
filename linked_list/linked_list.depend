@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1753967536 source:c:\users\dell\onedrive\desktop\ds\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.c"
+
+1753967536 c:\users\dell\onedrive\desktop\ds\linked_list\list.c
+	"list.h"
+	<stdlib.h>
+
+1753967158 c:\users\dell\onedrive\desktop\ds\linked_list\list.h
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1753697538 source:c:\users\dell\onedrive\desktop\ds\binarysearch_tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.c"
+
+1753697913 c:\users\dell\onedrive\desktop\ds\binarysearch_tree\tree.c
+	"tree.h"
+	<stdlib.h>
+
+1753696801 c:\users\dell\onedrive\desktop\ds\binarysearch_tree\tree.h
+

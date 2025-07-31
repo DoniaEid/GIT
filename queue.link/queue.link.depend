@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1753359103 source:c:\users\dell\onedrive\desktop\ds\queue.link\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.c"
+
+1753359013 c:\users\dell\onedrive\desktop\ds\queue.link\queue.c
+	"queue.h"
+	"stdlib.h"
+
+1753357794 c:\users\dell\onedrive\desktop\ds\queue.link\queue.h
+
